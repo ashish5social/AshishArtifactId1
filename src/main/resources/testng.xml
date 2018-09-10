@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Ashish test using testng">
+<test name="tests">
+
+<packages>
+
+<package name="com.ashish.test"></package>
+</packages>
+</test>
+
+
+</suite>
