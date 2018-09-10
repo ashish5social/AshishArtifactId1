@@ -11,4 +11,9 @@ public class DemoTest3 {
 		Assert.assertEquals(100, 10*10);
 	}
 
+	@Test
+	public void Div() {
+		System.out.println("Div test");
+		Assert.assertEquals(2, 20/10);
+	}
 }
